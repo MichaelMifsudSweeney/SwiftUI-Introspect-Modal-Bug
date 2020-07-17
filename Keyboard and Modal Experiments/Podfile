@@ -1,0 +1,7 @@
+
+target 'Keyboard and Modal Experiments' do
+ 
+  use_frameworks!
+
+  pod "Introspect"
+end
